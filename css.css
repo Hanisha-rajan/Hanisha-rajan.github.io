@@ -1,0 +1,42 @@
+.topend { background: #000080 url("../imgs/spider.jpg") no-repeat top left ;
+          background-size: 250px 240px;
+          text-align: center;
+          color:#ffffff;
+          text-transform: uppercase;
+          font-weight: bold;
+          }
+
+
+.pic {background: url("../imgs/hanisha.jpg") repeat-x;
+          background-size: 240px 240px;}
+
+.centre { border: 3px black;
+          width : 420px;
+          text-align: center;
+        padding : 6px;
+        margin-left: auto;
+        margin-right: auto;
+          color:#8B0000;
+          text-transform: capitalize;
+           background-color: #2F4F4F;
+    
+
+        }
+
+.bottom {background: url("../imgs/NY.jpg") repeat-x;
+         background-size: 270px 270px;
+         }
+.para { border: 3px black;
+        width : 420px;
+        text-align: left;
+        padding : 6px;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #000000;
+  
+        color:white;
+      }
+
+
+          
+          
